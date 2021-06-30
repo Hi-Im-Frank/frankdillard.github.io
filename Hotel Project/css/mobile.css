@@ -1,0 +1,60 @@
+#navbar .logo {
+  float: none;
+  text-align: center;
+}
+
+#navbar ul,
+#navbar ul li {
+  float: none;
+}
+
+#navbar ul li a {
+  padding: 5px;
+}
+
+#showcase .showcase-content h1 {
+  padding: 30px;
+}
+
+#home-info .info-img {
+  display: none;
+}
+
+#home-info .info-content {
+  float: none;
+  width: 100%;
+}
+
+.box {
+  float: none;
+  width: 100%;
+  /* padding: 50px;
+  text-align: center; */
+}
+/* end of home page */
+
+/* about page */
+#about-info .info-right,
+#about-info .info-left {
+  float: none;
+  width: 100%;
+}
+
+#about-info .info-right {
+  margin-top: 30px;
+}
+
+#about-info .container {
+  padding-top: 100px;
+}
+
+.l-heading {
+  text-align: center;
+  line-height: 2.2rem;
+}
+/* end of about page */
+
+/* contact page */
+#contact-form .container {
+  margin-top: 100px;
+}
